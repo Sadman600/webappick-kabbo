@@ -5,7 +5,7 @@ const DesignAgency = () => {
         <div>
             <div className='container mx-auto'>
                 <div class="hero  bg-base-100">
-                    <div class="container mx-auto grid lg:grid-cols-2 gap-5 ">
+                    <div class="grid lg:grid-cols-2 gap-5 ">
 
                         <div className='w-5/6 mt-24'>
                             <div className=''>
