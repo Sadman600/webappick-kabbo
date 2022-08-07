@@ -17,9 +17,9 @@ const Home = () => {
             <Fantasy />
             <Workplace />
             <DesignAgency />
+            <TeamMembers />
             <Blog />
             <ClientsSay />
-            <TeamMembers />
             <AgencyTask />
         </div>
     );
